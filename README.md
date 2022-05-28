@@ -133,3 +133,13 @@ https://github.com/wollllll/sugoroku
 
 現在はおすすめのドライブスポットを共有するサービスをLaravel 9とVue.js 3で作成中。  
 https://github.com/wollllll/touring_app
+
+### 趣味
+
+車とバイクが好きです。  
+
+車はTOYOTAのMR-Sを所有、バイクはSUZUKIのグラディウス650を所有しています。  
+車はモータースポーツに興味があり、サーキットの走行会など経験。  
+バイクでモータースポーツとかあまり興味がありませんが、旅など興味があります。  
+年内に日本一周旅をしようと計画中です。  
+<img src="https://user-images.githubusercontent.com/54100964/170823840-2d049736-a478-4864-b795-1b433a2bb7ea.jpg" width="25%">
