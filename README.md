@@ -84,7 +84,7 @@
 ## 課外活動
 
 ### 社外プロジェクト
-- すごろくアプリ
+- すごろくアプリ  
 https://github.com/wollllll/sugoroku
 
 ### 自主学習
