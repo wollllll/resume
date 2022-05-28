@@ -131,5 +131,5 @@ https://github.com/wollllll/sugoroku
 - Netlify
 - Google Apps Script
 
-現在はおすすめのドライブスポットを共有するサービスをLaravel 9とVue.js 3で作成中。
+現在はおすすめのドライブスポットを共有するサービスをLaravel 9とVue.js 3で作成中。  
 https://github.com/wollllll/touring_app
