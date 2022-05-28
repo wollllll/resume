@@ -26,10 +26,10 @@
 - MySQL 5.7
 
 ### フレームワークやライブラリ
-- Laravel 5.7, 6.0 2年ほど
-- Symfony (EC-CUBE4) 半年ほど
-- Vue.js 2 半年ほど
-- jQuery 1,2,3 2年ほど
+- Laravel 5.7, 6.0 (約2年)
+- Symfony (EC-CUBE4) (約半年)
+- Vue.js 2 (約半年)
+- jQuery 1,2,3 (約2年)
 - Bootstrap 4
 - Admin LTE 2,3
 - Scss
