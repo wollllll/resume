@@ -26,10 +26,10 @@
 - MySQL 5.7
 
 ### フレームワークやライブラリ
-- Laravel 5.7, 6.0
-- Symfony (EC-CUBE4)
-- Vue.js 2
-- jQuery 1,2,3
+- Laravel 5.7, 6.0 2年ほど
+- Symfony (EC-CUBE4) 半年ほど
+- Vue.js 2 半年ほど
+- jQuery 1,2,3 2年ほど
 - Bootstrap 4
 - Admin LTE 2,3
 - Scss
@@ -124,6 +124,7 @@ https://github.com/wollllll/sugoroku
 - React.js
 - Nuxt.js (お試し程度)
 - Next.js (お試し程度)
+- AWS
 - Tailwind.css
 - Daisy.Ui
 - Bootstrap5
