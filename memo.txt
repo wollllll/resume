@@ -1,0 +1,2 @@
+1. npm -g i markdown-pdf
+2. markdown-pdf RESUME.md
