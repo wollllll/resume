@@ -19,12 +19,11 @@
 ### 言語
 - HTML5
 - CSS3
-- PHP 7
+- PHP
 - JavaScript
 
 ### DB
-- MySQL 5系
-- MySQL 8系
+- MySQL
 
 ### フレームワークやライブラリ
 - Laravel 5系、6系 (約3年)
