@@ -21,6 +21,7 @@
 - CSS3
 - PHP
 - JavaScript
+- GAS
 
 ### DB
 - MySQL
